@@ -8,8 +8,8 @@ storage/*
 # vendor
 # vendor/*
 
-# .env
-# *.env
+.env
+*.env
 
 composer.lock
 .vscode/sftp.json
