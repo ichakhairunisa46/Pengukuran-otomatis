@@ -1,12 +1,12 @@
-/storage
-/storage/*
-storage
-storage/*
+# /storage
+# /storage/*
+# storage
+# storage/*
 
-# /vendor
-# /vendor/*
-# vendor
-# vendor/*
+/vendor
+/vendor/*
+vendor
+vendor/*
 
 .env
 *.env
